@@ -9,5 +9,4 @@ O projeto inclui CSS e manipulação de campos via JS
 ## Tecnlogias Utilizados
 - HTML5
 - CSS 3
-- JAvaScript (Vanilla JS)
-
+- JavaScript (Vanilla JS)gi
